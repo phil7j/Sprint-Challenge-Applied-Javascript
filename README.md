@@ -32,13 +32,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+    The DOM or Document Object Module is an object representation of the HTML elements of a webpage. It is basically an API we use to communicate with the html and CSS of the web page.
+
 2. What is an event?
+
+    An event is anytime a user interacts with a web page like a click or a scroll or a page load.
 
 3. What is an event listener?
 
+    An event listener is a function that allows you to have the browser listen for a certain event and run a callback function when the event is triggered.
+
 4. Why would we convert a NodeList into an Array?
 
+    Mainly because of the methods available on the Array. A Nodelist is very similar to an array, it is also a list of items. The main difference is that since it is not a proper array, it does not have the many methods available to an array. So if we convert it to an array we can make use of them.
+
 5. What is a component?
+
+    A component is a reusable section of your website, it's made up of HTML, CSS and JS.
 
 ### Git Set up
 
